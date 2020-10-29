@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="mainking" size="0.060000 0.092857" />
+    <ImageTarget name="mainqueen" size="0.060000 0.092357" />
+    <ImageTarget name="Queen_card" size="0.060000 0.094815" />
+  </Tracking>
+</QCARConfig>
